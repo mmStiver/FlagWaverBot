@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagWaverBot", "FlagWaverBot\FlagWaverBot.csproj", "{1AA4882B-6EA1-435C-8457-494A297C2ED3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeriodicBotRunner", "PeriodicBotRunner\PeriodicBotRunner.csproj", "{31FCB344-4413-404F-8CC7-D7C628D896A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlagWaver.Core", "FlagWaver.Core\FlagWaver.Core.csproj", "{4A291444-F2E1-460A-8DDD-AAAD769D7442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA4882B-6EA1-435C-8457-494A297C2ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA4882B-6EA1-435C-8457-494A297C2ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA4882B-6EA1-435C-8457-494A297C2ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA4882B-6EA1-435C-8457-494A297C2ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FCB344-4413-404F-8CC7-D7C628D896A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FCB344-4413-404F-8CC7-D7C628D896A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FCB344-4413-404F-8CC7-D7C628D896A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FCB344-4413-404F-8CC7-D7C628D896A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A291444-F2E1-460A-8DDD-AAAD769D7442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A291444-F2E1-460A-8DDD-AAAD769D7442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A291444-F2E1-460A-8DDD-AAAD769D7442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A291444-F2E1-460A-8DDD-AAAD769D7442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6F6690-2E86-40A9-849B-C779654D268F}
+	EndGlobalSection
+EndGlobal
